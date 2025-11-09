@@ -26,8 +26,3 @@ The dataset used for training and feature extraction can be found here:
 
 ---
 
-## 🔹 Installation
-
-1. Clone this repository:  
-```bash
-git clone https://github.com/your-username/ai-fashion-recommender.git
